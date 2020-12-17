@@ -1,0 +1,18 @@
+{
+  "name": "Gevork",
+  "age": 35,
+  "numberOfRelatives": 2,
+  "mother": {
+    "name": "Tanya",
+    "age": 59,
+    "numberOfRelatives": 4,
+    "majority": true
+  },
+  "father": {
+    "name": "Aram",
+    "age": 62,
+    "numberOfRelatives": 5,
+    "majority": true
+  },
+  "majority": true
+}
